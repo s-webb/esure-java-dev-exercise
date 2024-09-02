@@ -1,3 +1,5 @@
+** edit **
+
 Create a simulation of the card game blackjack. The rules of the game have been modified to make the outcome
 deterministic - for a given sequence of cards in the deck, the game should always produce the same outcome.
 
